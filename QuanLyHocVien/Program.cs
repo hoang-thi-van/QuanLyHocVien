@@ -8,6 +8,7 @@ namespace QuanLyHocVien
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Tài Vân Điền Khang Phương");
+            Console.WriteLine("Xin CHao");
         }
     }
 }

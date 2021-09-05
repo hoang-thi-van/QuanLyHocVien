@@ -9,6 +9,8 @@ namespace QuanLyHocVien
             Console.WriteLine("Hello World!");
             Console.WriteLine("Tài Vân Điền Khang Phương");
             Console.WriteLine("Đây là đài tiếng nói VN phát thanh từ HN thủ đô nước CHXHCNVN !");
+            Console.WriteLine("Đây là đài tiếng nói VN phát thanh từ HN thủ đô nước CHXHCNVN !");
+
         }
     }
 }
